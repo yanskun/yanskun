@@ -3,10 +3,10 @@
 ## 💌 Like
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
 
-## 🤓 My Skills
+## 🤓 Skills
 <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,vue,nuxtjs,react,nextjs,go,lua,git" />
 
-## ⚙️ My Gears
+## ⚙️ Gears
 <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,vscode,githubcopilot,alacritty,tmux" />
 
 ## 📖 Learn & Interest
