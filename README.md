@@ -53,11 +53,9 @@
 <details>
   <summary>WakaTime</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C931%20hrs%2011%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 📦 156.5 kB Used in GitHub's Storage 
+> 📦 156.8 kB Used in GitHub's Storage 
  > 
 > 🏆 5,265 Contributions in the Year 2025
  > 
@@ -109,7 +107,7 @@ Mac                      39 hrs 54 mins      ███████████�
 ```
 
 
- Last Updated on 15/11/2025 05:39:00 UTC
+ Last Updated on 16/11/2025 05:33:56 UTC
 <!--END_SECTION:waka-->
 </details>
 
