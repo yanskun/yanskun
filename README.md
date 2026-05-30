@@ -53,11 +53,13 @@
 <details>
   <summary>WakaTime</summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C540%20hrs%2055%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 168.3 kB Used in GitHub's Storage 
+> 📦 168.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2,686 Contributions in the Year 2026
+> 🏆 2,701 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,8 +67,48 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 29/05/2026 08:39:38 UTC
+```text
+🌞 Morning                45151 commits       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+🌆 Daytime                149732 commits      ███████████████░░░░░░░░░░   60.96 % 
+🌃 Evening                46855 commits       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+🌙 Night                  3877 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   37584 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Tuesday                  52000 commits       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Wednesday                53150 commits       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Thursday                 51545 commits       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Friday                   44866 commits       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Saturday                 2367 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Sunday                   4103 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TypeScript               12 hrs 11 mins      ████████████████████░░░░░   80.77 % 
+Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+
+🔥 Editors: 
+Neovim                   15 hrs 5 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      15 hrs 5 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/05/2026 08:05:00 UTC
 <!--END_SECTION:waka-->
 </details>
 
