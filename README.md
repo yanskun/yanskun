@@ -53,13 +53,11 @@
 <details>
   <summary>WakaTime</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C665%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C669%20hrs%2023%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 174.0 kB Used in GitHub's Storage 
- > 
-> 🏆 3,751 Contributions in the Year 2026
+> 📦 174.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -67,48 +65,8 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                59960 commits       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-🌆 Daytime                198947 commits      ███████████████░░░░░░░░░░   61.34 % 
-🌃 Evening                61386 commits       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-🌙 Night                  4036 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   49359 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Tuesday                  69487 commits       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Wednesday                70725 commits       █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Thursday                 68027 commits       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Friday                   59506 commits       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Saturday                 2463 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Sunday                   4762 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-TypeScript               16 hrs 15 mins      ███████████████████░░░░░░   76.21 % 
-Protocol Buffer          1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-
-🔥 Editors: 
-Neovim                   21 hrs 20 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      21 hrs 20 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 16/07/2026 10:11:13 UTC
+ Last Updated on 17/07/2026 09:05:15 UTC
 <!--END_SECTION:waka-->
 </details>
 
