@@ -53,11 +53,13 @@
 <details>
   <summary>WakaTime</summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C696%20hrs%2040%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 171.0 kB Used in GitHub's Storage 
+> 📦 171.3 kB Used in GitHub's Storage 
  > 
-> 🏆 4,193 Contributions in the Year 2026
+> 🏆 4,225 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -68,21 +70,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                64971 commits       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-🌆 Daytime                215310 commits      ███████████████░░░░░░░░░░   61.11 % 
-🌃 Evening                67517 commits       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-🌙 Night                  4517 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+🌞 Morning                65602 commits       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+🌆 Daytime                217140 commits      ███████████████░░░░░░░░░░   61.04 % 
+🌃 Evening                68370 commits       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+🌙 Night                  4628 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   52833 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Tuesday                  75436 commits       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Wednesday                77159 commits       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Thursday                 74563 commits       █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-Friday                   64754 commits       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Saturday                 2648 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Sunday                   4922 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Monday                   53132 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Tuesday                  76165 commits       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Wednesday                78023 commits       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Thursday                 75379 commits       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Friday                   65426 commits       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Saturday                 2688 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Sunday                   4927 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
@@ -92,21 +94,21 @@ Sunday                   4922 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               13 hrs 29 mins      █████████████████░░░░░░░░   67.08 % 
-YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-TOML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Protocol Buffer          52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+TypeScript               13 hrs 19 mins      █████████████████░░░░░░░░   66.52 % 
+Protocol Buffer          1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+TOML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🔥 Editors: 
-Neovim                   20 hrs 7 mins       █████████████████████████   100.00 % 
+Neovim                   20 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 10:30:52 UTC
+ Last Updated on 25/07/2026 10:00:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
